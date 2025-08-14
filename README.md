@@ -15,16 +15,6 @@ Description
 - **Model**: gpt-4-0613
 - **Updated**: 8/14/2025
 
-### Test
-
-#### [test2](./prompts/test2/prompt.md)
-
-desc
-
-- **Model**: Not specified
-- **Updated**: 8/14/2025
-
-
 ---
 
 *This README is automatically generated when prompts are published.*
