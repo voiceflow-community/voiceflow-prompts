@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 3
+Total prompts: 2
 
 ### Support
 
@@ -16,13 +16,6 @@ Description
 - **Updated**: 8/14/2025
 
 ### Test
-
-#### [Test](./prompts/test/prompt.md)
-
-description
-
-- **Model**: gemini-2.0-flash
-- **Updated**: 8/14/2025
 
 #### [test2](./prompts/test2/prompt.md)
 
