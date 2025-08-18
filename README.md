@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 30
+Total prompts: 31
 
 ### Emoji & Visual Elements
 
@@ -173,6 +173,13 @@ Handling Multiple Topics
 - **Updated**: 8/18/2025
 
 ### Number Formatting & Speech
+
+#### [General Numbers](./prompts/general-numbers/prompt.md)
+
+General Numbers
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
 
 #### [Phone Numbers](./prompts/phone-numbers/prompt.md)
 
