@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 33
+Total prompts: 34
 
 ### Emoji & Visual Elements
 
@@ -191,6 +191,13 @@ Dates & Times
 #### [General Numbers](./prompts/general-numbers/prompt.md)
 
 General Numbers
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Letter Grouping for Clarity](./prompts/letter-grouping-for-clarity/prompt.md)
+
+Letter Grouping for Clarity
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
