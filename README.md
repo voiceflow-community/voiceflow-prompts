@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 7
+Total prompts: 8
 
 ### Interactive Elements
 
@@ -27,6 +27,15 @@ Links & Actions
 Visual Cards
 
 - **Model**: claude-sonnet-4-20250514
+- **Updated**: 8/18/2025
+
+### Natural Language Patterns
+
+#### [Handling Multiple Topics](./prompts/handling-multiple-topics/prompt.md)
+
+Handling Multiple Topics
+
+- **Model**: Not specified
 - **Updated**: 8/18/2025
 
 ### Response Structure Templates
