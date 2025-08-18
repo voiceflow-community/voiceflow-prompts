@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 47
+Total prompts: 48
 
 ### Conversational Flow Principles
 
@@ -230,6 +230,13 @@ Handling Multiple Topics
 #### [Avoiding Robotic Patterns](./prompts/avoiding-robotic-patterns/prompt.md)
 
 Avoiding Robotic Patterns
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Building on Context](./prompts/building-on-context/prompt.md)
+
+Building on Context
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
