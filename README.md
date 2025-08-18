@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 50
+Total prompts: 51
 
 ### Conversational Flow Principles
 
@@ -64,6 +64,13 @@ When NOT to Use Emoji
 #### [Fallback Options](./prompts/fallback-options/prompt.md)
 
 Fallback Options
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Maintaining Conversation State](./prompts/maintaining-conversation-state/prompt.md)
+
+Maintaining Conversation State
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
