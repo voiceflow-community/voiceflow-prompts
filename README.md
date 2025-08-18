@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 43
+Total prompts: 44
 
 ### Conversational Flow Principles
 
@@ -106,6 +106,13 @@ Text Hierarchy
 - **Updated**: 8/18/2025
 
 ### Function Call Patterns
+
+#### [Function Call Verification Checklist](./prompts/function-call-verification-checklist/prompt.md)
+
+Function Call Verification Checklist
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
 
 #### [Mandatory Function Call Announcements](./prompts/mandatory-function-call-announcements/prompt.md)
 
