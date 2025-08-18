@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 20
+Total prompts: 21
 
 ### Emoji & Visual Elements
 
@@ -57,6 +57,13 @@ Text Hierarchy
 #### [Citation Fundamentals](./prompts/citation-fundamentals/prompt.md)
 
 Citation Fundamentals
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Citation Rules](./prompts/citation-rules/prompt.md)
+
+Citation Rules
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
