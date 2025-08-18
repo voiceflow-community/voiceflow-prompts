@@ -4,13 +4,20 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 39
+Total prompts: 40
 
 ### Conversational Flow Principles
 
 #### [Natural Conversation Elements](./prompts/natural-conversation-elements/prompt.md)
 
 Natural Conversation Elements
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Tone Guidelines](./prompts/tone-guidelines/prompt.md)
+
+Tone Guidelines
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
