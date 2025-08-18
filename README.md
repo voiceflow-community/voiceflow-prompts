@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 15
+Total prompts: 16
 
 ### Emoji & Visual Elements
 
@@ -87,6 +87,15 @@ Conversational Tone
 #### [Handling Multiple Topics](./prompts/handling-multiple-topics/prompt.md)
 
 Handling Multiple Topics
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+### Response Length & Pacing
+
+#### [Optimal Response Length](./prompts/optimal-response-length/prompt.md)
+
+Optimal Response Length
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
