@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 8
+Total prompts: 9
 
 ### Interactive Elements
 
@@ -30,6 +30,13 @@ Visual Cards
 - **Updated**: 8/18/2025
 
 ### Natural Language Patterns
+
+#### [Conversational Tone](./prompts/conversational-tone/prompt.md)
+
+Conversational Tone
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
 
 #### [Handling Multiple Topics](./prompts/handling-multiple-topics/prompt.md)
 
