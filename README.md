@@ -4,7 +4,16 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 13
+Total prompts: 14
+
+### Emoji & Visual Elements
+
+#### [Strategic Emoji Usage](./prompts/strategic-emoji-usage/prompt.md)
+
+Strategic Emoji Usage
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
 
 ### Formatting
 
