@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 32
+Total prompts: 33
 
 ### Emoji & Visual Elements
 
@@ -177,6 +177,13 @@ Handling Multiple Topics
 #### [Currency](./prompts/currency/prompt.md)
 
 Currency
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Dates & Times](./prompts/dates-times/prompt.md)
+
+Dates & Times
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
