@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 34
+Total prompts: 35
 
 ### Emoji & Visual Elements
 
@@ -258,6 +258,15 @@ Product/Service Information
 #### [Troubleshooting Responses](./prompts/troubleshooting-responses/prompt.md)
 
 Troubleshooting Responses
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+### Text-to-Speech (TTS) Optimization
+
+#### [Creating Natural Pauses](./prompts/creating-natural-pauses/prompt.md)
+
+Creating Natural Pauses
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
