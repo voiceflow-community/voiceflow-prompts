@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 26
+Total prompts: 27
 
 ### Emoji & Visual Elements
 
@@ -25,6 +25,15 @@ Visual Hierarchy with Emoji
 #### [When NOT to Use Emoji](./prompts/when-not-to-use-emoji/prompt.md)
 
 When NOT to Use Emoji
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+### Error Messages & Fallbacks
+
+#### [User-Friendly Error Messages](./prompts/user-friendly-error-messages/prompt.md)
+
+User-Friendly Error Messages
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
