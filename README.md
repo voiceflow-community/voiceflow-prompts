@@ -8,12 +8,12 @@ Total prompts: 1
 
 ### Support
 
-#### [Support Agent](./prompts/support-agent/prompt.md)
+#### [Test](./prompts/test/prompt.md)
 
-Description
+Test
 
-- **Model**: claude-sonnet-4-20250514
-- **Updated**: 8/14/2025
+- **Model**: gpt-3.5-turbo-0125
+- **Updated**: 8/18/2025
 
 
 ---
