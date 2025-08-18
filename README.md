@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 5
+Total prompts: 6
 
 ### Interactive Elements
 
@@ -34,6 +34,13 @@ Visual Cards
 #### [Policy/Rules Responses](./prompts/policy-rules-responses/prompt.md)
 
 Policy/Rules Responses
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Process/How-To Responses](./prompts/process-how-to-responses/prompt.md)
+
+Process/How-To Responses
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
