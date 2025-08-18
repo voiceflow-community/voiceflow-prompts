@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 48
+Total prompts: 49
 
 ### Conversational Flow Principles
 
@@ -55,6 +55,15 @@ Visual Hierarchy with Emoji
 #### [When NOT to Use Emoji](./prompts/when-not-to-use-emoji/prompt.md)
 
 When NOT to Use Emoji
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+### Error Handling & Recovery
+
+#### [When Things Go Wrong](./prompts/when-things-go-wrong/prompt.md)
+
+When Things Go Wrong
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
