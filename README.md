@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 18
+Total prompts: 19
 
 ### Emoji & Visual Elements
 
@@ -110,6 +110,13 @@ Information Density
 #### [Optimal Response Length](./prompts/optimal-response-length/prompt.md)
 
 Optimal Response Length
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Pacing Strategies](./prompts/pacing-strategies/prompt.md)
+
+Pacing Strategies
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
