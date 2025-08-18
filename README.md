@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 29
+Total prompts: 30
 
 ### Emoji & Visual Elements
 
@@ -168,6 +168,15 @@ Conversational Tone
 #### [Handling Multiple Topics](./prompts/handling-multiple-topics/prompt.md)
 
 Handling Multiple Topics
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+### Number Formatting & Speech
+
+#### [Phone Numbers](./prompts/phone-numbers/prompt.md)
+
+Phone Numbers
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
