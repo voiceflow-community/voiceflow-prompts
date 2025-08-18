@@ -4,9 +4,16 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 41
+Total prompts: 42
 
 ### Conversational Flow Principles
+
+#### [Adaptive Questioning](./prompts/adaptive-questioning/prompt.md)
+
+Adaptive Questioning
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
 
 #### [Empathetic Responses](./prompts/empathetic-responses/prompt.md)
 
