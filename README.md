@@ -4,9 +4,16 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 11
+Total prompts: 12
 
 ### Formatting
+
+#### [Formatting Rules](./prompts/formatting-rules/prompt.md)
+
+Formatting Rules
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
 
 #### [Response Layout Patterns](./prompts/response-layout-patterns/prompt.md)
 
