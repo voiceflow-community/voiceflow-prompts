@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 46
+Total prompts: 47
 
 ### Conversational Flow Principles
 
@@ -226,6 +226,13 @@ Handling Multiple Topics
 - **Updated**: 8/18/2025
 
 ### Natural Language Transitions
+
+#### [Avoiding Robotic Patterns](./prompts/avoiding-robotic-patterns/prompt.md)
+
+Avoiding Robotic Patterns
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
 
 #### [Smooth Conversation Flow](./prompts/smooth-conversation-flow/prompt.md)
 
