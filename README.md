@@ -4,7 +4,7 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 35
+Total prompts: 36
 
 ### Emoji & Visual Elements
 
@@ -267,6 +267,13 @@ Troubleshooting Responses
 #### [Creating Natural Pauses](./prompts/creating-natural-pauses/prompt.md)
 
 Creating Natural Pauses
+
+- **Model**: Not specified
+- **Updated**: 8/18/2025
+
+#### [Repetition Strategies](./prompts/repetition-strategies/prompt.md)
+
+Repetition Strategies
 
 - **Model**: Not specified
 - **Updated**: 8/18/2025
