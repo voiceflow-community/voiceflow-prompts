@@ -4,9 +4,16 @@ This repository contains a collection of AI prompts organized by category.
 
 ## Available Prompts
 
-Total prompts: 2
+Total prompts: 3
 
 ### Interactive Elements
+
+#### [Button Integration](./prompts/button-integration/prompt.md)
+
+Button Integration
+
+- **Model**: claude-sonnet-4-20250514
+- **Updated**: 8/18/2025
 
 #### [Links & Actions](./prompts/links-actions/prompt.md)
 
